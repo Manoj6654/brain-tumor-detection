@@ -78,7 +78,7 @@ brain-tumor-detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/deepthi-tr05/brain-tumor-detection.git
+git clone https://github.com/Manpj6654/brain-tumor-detection.git
 cd brain-tumor-detection
 ```
 
@@ -222,7 +222,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👩‍💻 Author
 
-**Deepthi** — [@deepthi-tr05](https://github.com/deepthi-tr05)
+**Manoj Kumar KR** — [Manoj6654][https://github.com/manoj6654/brain-tumor-detection]
 
 ---
 
